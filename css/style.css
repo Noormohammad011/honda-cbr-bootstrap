@@ -1,4 +1,14 @@
-.btn-common{
-    background:#E76F51;
-    color: #FFFFFF;
+.btn-common {
+  background: #e76f51;
+  color: #ffffff;
+}
+.w-common {
+  width: 7%;
+  color: #e76f51;
+}
+.gray-scale {
+  filter: grayscale(100%);
+}
+.fetured-bikes img {
+  width: 80%;
 }
